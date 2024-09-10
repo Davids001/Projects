@@ -1,5 +1,5 @@
 <p align="center">
- <img width="300px" src="molecule.jpg" alt="qr"/>
+ <center><img src=molecule.png width=800px height=30%>
 </p>
 
 # Проект 7. Подбор гиперпараметров модели на основе Kaggle: Прогнозирование биологической реакции
