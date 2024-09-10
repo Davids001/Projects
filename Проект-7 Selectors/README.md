@@ -1,6 +1,6 @@
-<p align="center">
+
  <center><img src=molecule.png width=300px height=30%>
-</p>
+
 
 # Проект 7. Подбор гиперпараметров модели на основе Kaggle: Прогнозирование биологической реакции
 
