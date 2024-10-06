@@ -1,5 +1,5 @@
 
-<center><img src=title.jpg width=800px height=30%>
+<center><img src=title.jpg width=400px height=30%>
 
 
 # Проект 3. EDA HR Агенство
