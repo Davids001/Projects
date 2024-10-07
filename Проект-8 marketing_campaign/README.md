@@ -1,5 +1,5 @@
 
- <center><img src=picture_1.jpg width=800px height=30%>
+ <center><img src=title.jpg width=500px height=30%>
 
 
 # Проект 8. Metrics learning Кластеризация
