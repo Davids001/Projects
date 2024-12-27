@@ -1,5 +1,5 @@
 
- <center><img src=bank.jpg width=400px height=30%>
+ <center><img src=Bank.jpg width=400px height=30%>
 
 
 # Проект 9. Кластеризация клиентов банка
