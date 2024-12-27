@@ -1,4 +1,4 @@
- <center><img src=titul.jpg width=800px height=30%>
+ <center><img src=titul.jpg width=500px height=30%>
 
 
 # Стажировка в компании МОТОРИКА
