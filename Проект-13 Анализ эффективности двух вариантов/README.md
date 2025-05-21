@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">student of online school skillfactory</h3>
+<h1 align="center">Привет! 👋, Меня зовут Роман</h1>
+<h3 align="center">Я являюсь студентом онлайн школы SkillFactory</h3>
 
-- 🔭 I’m currently working on ['analysis of the effectiveness of two landing page variants'](https://github.com/Davids001/Projects/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-13%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B4%D0%B2%D1%83%D1%85%20%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2/project-13.ipynb)
+- 🔭 Я работал над проектом: ['Анализ эффективности двух вариантов постадочной страницы'](https://github.com/Davids001/Projects/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-13%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B4%D0%B2%D1%83%D1%85%20%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2/project-13.ipynb)
 
-- 🌱 I’m currently learning **DataScience**
+- 🌱 Специальность: **DataScience**
 
-- 📄 Know about my experiences [HH.ru](https://hh.ru/resume/69d3f665ff016ee1ad0039ed1f713458334349)
+- 📄 Ссылка на мое резюме: [HH.ru](https://hh.ru/resume/69d3f665ff016ee1ad0039ed1f713458334349)
 
-- 📫 How to reach me **Ronaz@mail.ru**
+- 📫 Как меня найти: **Ronaz@mail.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
